@@ -1,6 +1,6 @@
 14/01/25
 
-I spent a long time trying to figure out 2 bugs. I also finished the physics of my cube so that now it can jump.
+I spent a long time trying to figure out 2 bugs. I also finished my cube's physics so it can now jump.
 
 Tomorrow I want to make the whole thing Object Oriented and add an obstacle.
 
@@ -12,6 +12,12 @@ Tomorrow I want to make the collision detection always function and start workin
 
 16/01/25
 
-I found the bug with collision detection. I added a spike beside the platform so now I can create the layout of the level, I also started with that but I can make it more efficient tomorrow.
+I found the bug with collision detection. I added a spike beside the platform so I can now create the layout of the level, I also started with that but can make it more efficient tomorrow.
 
-Tomorrow I want to think of a better way to design the map and I want to start drawing my game.
+Tomorrow I want to think of a better way to design the map and start drawing my game.
+
+17/01/25
+
+I changed the creation of the layout from objects to matrixes, and now it's a bit less complicated to design it. I started drawing the background but I think I did it in a wrong resolution.
+
+Tomorrow I will work more on the Map layout and draw some more if I have time and energy for it.
