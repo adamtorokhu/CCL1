@@ -20,13 +20,18 @@ Tomorrow I want to think of a better way to design the map and start drawing my 
 
 I changed how I create the layout from objects to matrixes, and now it's a bit less complicated to design. I started drawing the background but I think I did it in a wrong resolution.
 
-Next week I will work more on the Map layout and draw some more if I have time and energy for it.
+Monday I will work more on the Map layout and draw some more if I have time and energy for it.
 
 20/01/25
 
 I drew the background and the spike sprite. I made progress on the map as well and created a start screen.
 
-Tomorrow I want to finish the map and make the game restart when the player dies.
+Tomorrow I want to finish the map and restart the game when the player dies.
 
+21/01/25
+
+Today I got the spike sprites working, drew, and added the platform picture. I made a progress percentage indicator to the game and made the game restart when the player dies as well as added a countdown to the beginning.
+
+Tomorrow I want to draw the main character and add it to the game.
 
 
