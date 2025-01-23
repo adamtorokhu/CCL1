@@ -34,4 +34,9 @@ Today I got the spike sprites working, drew, and added the platform picture. I m
 
 Tomorrow I want to draw the main character and add it to the game.
 
+22/01/25
+
+I drew the main character's sprite sheet and added music to the game. 
+
+Tomorrow I will add the end screen to the game and make the text look better.
 
