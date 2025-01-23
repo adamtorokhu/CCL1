@@ -40,3 +40,8 @@ I drew the main character's sprite sheet and added music to the game.
 
 Tomorrow I will add the end screen to the game and make the text look better.
 
+23/01/25
+
+I made an end screen using the start screen as a template. I made the ground move with the objects. Created a quick pitch presentation for my game. Made the texts look good.
+
+Tomorrow I hope everyone will enjoy my game!
