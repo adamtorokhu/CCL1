@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Neon Rush</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="./images/favicon.png">
+</head>
+<header>
+  <h1>Neon Rush</h1>
+</header>
+<body>
+  <!-- further HTML elements, that should maybe be displayed above your game..... -->
+
+  <div id="display">
+    <div id="counter">Attempt: 1</div>
+    <div id="best">Personal Best: 0%</div>
+  </div>
+
+  <div id="gameContainer">
+    <div id="countdownOverlay">
+      <span id="countdownText">3</span>
+    </div>
+    <!-- further HTML elements, that should be behind your game. e.g. Background image, .... -->
+    <div id="background"></div>
+    <canvas id="canvas" width="1000" height="600"></canvas> 
+  </div>
+  <!-- further HTML elements, that should maybe be displayed below your game. E.g. Score, .... -->
+  <!-- <div id="scoreDisplay">Score: </div> -->
+  <div id="startScreen">
+    <h1 id="neon">Welcome!</h1>
+    <p id="explain">Jump over spikes and on to platforms to reach the finish line!</p>
+    <button id="startButton">Start Game</button>
+  </div>
+<div id="controls">
+  <p>Jump with <img src="/images/w.png" width="20" height="20"></img> , <img src="/images/space.png" width="20" height="20"></img> or <img src="/images/arrow.png" width="20" height="20"> .</img></p>
+  <p>To jump continuously, hold down the button.</p>
+</div>
+  
+
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  
+</body>
+</html>
