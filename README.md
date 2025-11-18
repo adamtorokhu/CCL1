@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 **Play the Game**  
-[Click here to play Neon Rush!](https://adamtorokhu.github.io/CCL1/)  
+[Click here to play Neon Rush!](http://neonrush.adamtorok.dev/)  
 
 ---
 
